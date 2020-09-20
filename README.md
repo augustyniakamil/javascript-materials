@@ -3,11 +3,12 @@ Helpful links where you can find interesting articles or videos about Javascript
 
 ## Video courses
 * [[PL] Samuraj Programowania - Programowanie w JavaScript od podstaw w 1 miesiąc [youtube]](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
+* [[PL] Kurs ES6 nowa generacja JavaScript [strefakursow.pl]](https://strefakursow.pl/kursy/programowanie/kurs_es6_nowa_generacja_javascript.html)
 
 ## Books
 * [[EN] You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) / [[PL] Tajniki języka JavaScript](https://helion.pl/search?qa=&serwisyall=0&szukaj=Tajniki+j%25EAzyka+JavaScript&wprzed=0&wprzyg=0&wsprzed=1&wyczerp=0)
 
-## ...
+## Issues
 
 ### Scope
 * [[PL] Samuraj Programowania - Programowanie w JavaScript #8 Zakres zmiennych (scope) [youtube]](https://www.youtube.com/watch?v=aFRigWN4sOQ)
