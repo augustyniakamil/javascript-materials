@@ -10,12 +10,16 @@ Helpful links where you can find interesting articles or videos about Javascript
 ## ...
 
 ### Scope
-* [Overment - Jak działa zakres (scope) - Zaawansowany JavaScript #2/4 [youtube][polish]](https://youtu.be/41WCKu3dHNU)
-* [Samuraj Programowania - Programowanie w JavaScript #8 Zakres zmiennych (scope) [youtube][polish]](https://www.youtube.com/watch?v=aFRigWN4sOQ)
-* [Samuraj Programowania - var let const - czym różnią się zmienne w JavaScript #10 dzień kursu [youtube][polish]](https://youtu.be/zC1kHsUUOIE)
+* ![](https://flagcdn.com/16x12/pl.png) [Overment - Jak działa zakres (scope) - Zaawansowany JavaScript #2/4 [youtube]](https://youtu.be/41WCKu3dHNU)
+* ![](https://flagcdn.com/16x12/pl.png) [Samuraj Programowania - Programowanie w JavaScript #8 Zakres zmiennych (scope) [youtube]](https://www.youtube.com/watch?v=aFRigWN4sOQ)
+* ![](https://flagcdn.com/16x12/pl.png) [Samuraj Programowania - var let const - czym różnią się zmienne w JavaScript #10 dzień kursu [youtube]](https://youtu.be/zC1kHsUUOIE)
 
-### Hoisitng
-* [Samuraj Programowania - Hoisting w JavaScript. #9 dzień kursu programowania w JS. [youtube][polish]](https://www.youtube.com/watch?v=9E5a6j8IIn4)
+### Hoisting
+* ![](https://flagcdn.com/16x12/pl.png) [Samuraj Programowania - Hoisting w JavaScript. #9 dzień kursu programowania w JS. [youtube]](https://www.youtube.com/watch?v=9E5a6j8IIn4)
 
 ### Closures
-* [Samuraj Programowania - Closures (domknięcia) w JavaScript - kurs programowania #16 [youtube][polish]](https://youtu.be/YvJY6z6Xwr4) 
+* ![](https://flagcdn.com/16x12/pl.png) [Samuraj Programowania - Closures (domknięcia) w JavaScript - kurs programowania #16 [youtube]](https://youtu.be/YvJY6z6Xwr4) 
+
+### This
+* ![](https://flagcdn.com/16x12/pl.png) [Twórca Stron - "this" w JS - kiedy i na co wskazuje [youtube]](https://youtu.be/y2H2uwLNWB4)
+* ![](https://flagcdn.com/16x12/pl.png) [Overment - Kontekst funkcji i słowo kluczowe this w JavaScript [youtube]](https://youtu.be/QTDXSUnS1dc)
