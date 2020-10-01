@@ -31,6 +31,8 @@ Helpful links where you can find interesting articles or videos about Javascript
 ### Functions
 * [[PL] Samuraj Programowania - Programowanie w JavaScript #13 [youtube]](https://youtu.be/pfK16DU1sQs)
 * [[PL] Twórca Stron - Po co są callbacki i jak ich używać? [youtube]](https://youtu.be/HMfJNMOf9Bc)
+* [[PL] Overment - Higher-order functions - Functional Programming in JavaScript by overment [youtube]](https://youtu.be/uVK84yPnMMU)
+* [[PL] Overment - Pure Functions - Programowanie funkcyjne w JS by overment [youtube]](https://youtu.be/AGrSiyK4uGA)
 
 ### Asynchronous Javascript
 * [[PL] Twórca Stron - Jak działa asynchroniczność w JavaScript [youtube]](https://youtu.be/MD1euJQQkLQ)
