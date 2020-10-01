@@ -27,3 +27,11 @@ Helpful links where you can find interesting articles or videos about Javascript
 ### This
 * [[PL] Twórca Stron - "this" w JS - kiedy i na co wskazuje [youtube]](https://youtu.be/y2H2uwLNWB4)
 * [[PL] Overment - Kontekst funkcji i słowo kluczowe this w JavaScript [youtube]](https://youtu.be/QTDXSUnS1dc)
+
+### Functions
+* [[PL] Samuraj Programowania - Programowanie w JavaScript #13 [youtube]](https://youtu.be/pfK16DU1sQs) 
+
+### Asynchronous Javascript
+* [[PL] Twórca Stron - Jak działa asynchroniczność w JavaScript [youtube]](https://youtu.be/MD1euJQQkLQ)
+* [[PL] Overment - Jak działa Promise (obietnice) w JavaScript / tutorial asynchroniczny JavaScript / async await / promise API / chaining / generatory [youtube]](https://www.youtube.com/playlist?list=PLjHmWifVUNMLOfSdeSSEGgSXebPXL7Z3Q)
+
