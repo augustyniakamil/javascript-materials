@@ -29,7 +29,8 @@ Helpful links where you can find interesting articles or videos about Javascript
 * [[PL] Overment - Kontekst funkcji i słowo kluczowe this w JavaScript [youtube]](https://youtu.be/QTDXSUnS1dc)
 
 ### Functions
-* [[PL] Samuraj Programowania - Programowanie w JavaScript #13 [youtube]](https://youtu.be/pfK16DU1sQs) 
+* [[PL] Samuraj Programowania - Programowanie w JavaScript #13 [youtube]](https://youtu.be/pfK16DU1sQs)
+* [[PL] Twórca Stron - Po co są callbacki i jak ich używać? [youtube]](https://youtu.be/HMfJNMOf9Bc)
 
 ### Asynchronous Javascript
 * [[PL] Twórca Stron - Jak działa asynchroniczność w JavaScript [youtube]](https://youtu.be/MD1euJQQkLQ)
