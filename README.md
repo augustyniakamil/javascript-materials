@@ -40,3 +40,7 @@ Helpful links where you can find interesting articles or videos about Javascript
 * [[PL] Twórca Stron - Jak działa asynchroniczność w JavaScript [youtube]](https://youtu.be/MD1euJQQkLQ)
 * [[PL] Overment - Jak działa Promise (obietnice) w JavaScript / tutorial asynchroniczny JavaScript / async await / promise API / chaining / generatory [youtube]](https://www.youtube.com/playlist?list=PLjHmWifVUNMLOfSdeSSEGgSXebPXL7Z3Q)
 
+## ES Modules
+* [[PL] Twórca Stron - import, export - czyli jak podzielić projekt JS na wiele plików [youtube]](https://youtu.be/6txgDTXefdw)
+* [[PL] Krzysztof Furtak - Moduły w JavaScript - ECMAScript 2015 (ES6) [youtube]](https://youtu.be/6txgDTXefdw)
+
