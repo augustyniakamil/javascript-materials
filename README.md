@@ -27,12 +27,14 @@ Helpful links where you can find interesting articles or videos about Javascript
 ### This
 * [[PL] Twórca Stron - "this" w JS - kiedy i na co wskazuje [youtube]](https://youtu.be/y2H2uwLNWB4)
 * [[PL] Overment - Kontekst funkcji i słowo kluczowe this w JavaScript [youtube]](https://youtu.be/QTDXSUnS1dc)
+* [[PL] Twórca Stron - "this" oraz bind() call() apply() - co robią i jakie z tego plusy [youtube]](https://youtu.be/TQXZL4bvw9Q)
 
 ### Functions
 * [[PL] Samuraj Programowania - Programowanie w JavaScript #13 [youtube]](https://youtu.be/pfK16DU1sQs)
 * [[PL] Twórca Stron - Po co są callbacki i jak ich używać? [youtube]](https://youtu.be/HMfJNMOf9Bc)
 * [[PL] Overment - Higher-order functions - Functional Programming in JavaScript by overment [youtube]](https://youtu.be/uVK84yPnMMU)
 * [[PL] Overment - Pure Functions - Programowanie funkcyjne w JS by overment [youtube]](https://youtu.be/AGrSiyK4uGA)
+* [[PL] Twórca Stron - Różnice pomiędzy funkcjami (function declaration, function expression, arrow function) [youtube]](https://youtu.be/7YTQjObbINA)
 
 ### Asynchronous Javascript
 * [[PL] Twórca Stron - Jak działa asynchroniczność w JavaScript [youtube]](https://youtu.be/MD1euJQQkLQ)
