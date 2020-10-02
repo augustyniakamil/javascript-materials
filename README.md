@@ -42,5 +42,11 @@ Helpful links where you can find interesting articles or videos about Javascript
 
 ## ES Modules
 * [[PL] Twórca Stron - import, export - czyli jak podzielić projekt JS na wiele plików [youtube]](https://youtu.be/6txgDTXefdw)
-* [[PL] Krzysztof Furtak - Moduły w JavaScript - ECMAScript 2015 (ES6) [youtube]](https://youtu.be/6txgDTXefdw)
+* [[PL] Krzysztof Furtak - Moduły w JavaScript - ECMAScript 2015 (ES6) [youtube]](https://youtu.be/rHE_lOv2ug0)
+
+## Nullish Coalescing Operator
+* [[EN] dcode - Nullish Coalescing Operator - JavaScript Tutorial [youtube]](https://youtu.be/GbHVrOObGcs)
+
+## Optional chaining
+* [[PL] Overment - Czym jest optional chaining - ESNext (ES6 +) - by Overment [youtube]](https://youtu.be/rjiUY_MwHrE)
 
