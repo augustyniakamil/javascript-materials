@@ -39,6 +39,7 @@ Helpful links where you can find interesting articles or videos about Javascript
 ### Asynchronous Javascript
 * [[PL] Twórca Stron - Jak działa asynchroniczność w JavaScript [youtube]](https://youtu.be/MD1euJQQkLQ)
 * [[PL] Twórca Stron - Promise - to tylko dziwne callbacki? Prosto o Promise() [youtube]](https://youtu.be/w7_qAg6EKDE)
+* [[PL] Twórca Stron - async, await - czyli lepsze promisy [youtube]](https://youtu.be/bZdGdqR0NOM)
 * [[PL] Overment - Jak działa Promise (obietnice) w JavaScript / tutorial asynchroniczny JavaScript / async await / promise API / chaining / generatory [youtube]](https://www.youtube.com/playlist?list=PLjHmWifVUNMLOfSdeSSEGgSXebPXL7Z3Q)
 
 ## ES Modules
