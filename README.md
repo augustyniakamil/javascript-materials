@@ -52,3 +52,7 @@ Helpful links where you can find interesting articles or videos about Javascript
 ## Optional chaining
 * [[PL] Overment - Czym jest optional chaining - ESNext (ES6 +) - by Overment [youtube]](https://youtu.be/rjiUY_MwHrE)
 
+## Destructuring 
+* [[PL] shebang - ES6 bez tajemnic. Destrukturyzacja [blog post]](http://shebang.pl/artykuly/destrukturyzacja/)
+
+
