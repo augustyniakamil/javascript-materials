@@ -55,4 +55,7 @@ Helpful links where you can find interesting articles or videos about Javascript
 ## Destructuring 
 * [[PL] shebang - ES6 bez tajemnic. Destrukturyzacja [blog post]](http://shebang.pl/artykuly/destrukturyzacja/)
 
+## Fetch API
+* [[EN] Web Dev Simplified - Learn Fetch API In 6 Minutes [youtube]](https://youtu.be/cuEtnrL9-H0)
+* [[PL] Kurs Javascript dla superbohaterów - Fetch API [blog post]](https://kursjs.pl/kurs/ajax/fetch.php)
 
