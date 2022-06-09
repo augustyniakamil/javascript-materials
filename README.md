@@ -4,6 +4,7 @@ Helpful links where you can find interesting articles or videos about Javascript
 ## Video courses
 * [[PL] Samuraj Programowania - Programowanie w JavaScript od podstaw w 1 miesiąc [youtube]](https://www.youtube.com/playlist?list=PLTs20Q-BTEMPRSzhrlAuu7yus1BuOLVrS)
 * [[PL] Kurs ES6 nowa generacja JavaScript [strefakursow.pl]](https://strefakursow.pl/kursy/programowanie/kurs_es6_nowa_generacja_javascript.html)
+* [[PL] hello roman - πroman](https://www.youtube.com/playlist?list=PLKnxnWdLGM49f23mWmIL4jsZLdF9zPj8k)
 
 ## Books
 * [[EN] You Don't Know JS](https://github.com/getify/You-Dont-Know-JS) / [[PL] Tajniki języka JavaScript](https://helion.pl/search?qa=&serwisyall=0&szukaj=Tajniki+j%25EAzyka+JavaScript&wprzed=0&wprzyg=0&wsprzed=1&wyczerp=0)
